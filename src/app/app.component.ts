@@ -64,7 +64,7 @@ export class AppComponent implements OnInit {
       labels: [],
       datasets: [
         {
-          label: 'Humidity',
+          label: 'Flow rate',
           data: [],
           borderColor: 'rgb(153, 102, 255)'
         }
